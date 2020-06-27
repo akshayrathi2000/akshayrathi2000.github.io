@@ -1,1 +1,1 @@
-# akshayrathi2000.github.io
+A simple library management web application developed using Django.
